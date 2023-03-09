@@ -1,8 +1,8 @@
 /* Feel free to change me and make me your own! */
 
 body {
-  background-color: #edd8c3; 
-  font-family: Georgia, serif; 
+  background-color: teal; 
+  font-family: Verdana, sans serif; 
 }
 
 article {
@@ -30,5 +30,5 @@ ul {
 }
 
 code {
- font-family: 'Courier New', monospace; 
+ font-family: 'Lucinda console', monospace; 
 }
